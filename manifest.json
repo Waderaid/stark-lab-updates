@@ -1,7 +1,1 @@
-{
-  "versionCode": 4,
-  "versionName": "3.1",
-  "apkUrl": "https://files.catbox.moe/pbpx94.apk",
-  "sha256": "cb1f71d4d17d6c1d15c88c53c66629eff49311712fda7d5595e0a16a3489e3c9",
-  "releaseNotes": "Built-in auto-updater: checks for new releases at startup, downloads with progress, verifies SHA-256, and installs with one tap."
-}
+{"apkUrl":"https://files.catbox.moe/i6go5p.apk","releaseNotes":"Upgrade blitz: 20 UI upgrades (themes, toasts, boot splash, styled subtitles, perf chip, photo mode), 20 new features (target range, shield, drone, flight test, arc jam, tour, trivia, overdrive, finishes, lockdown...), 20 on-device AI enhancements (JARVIS Brain: recommender, tips, gaze facts, adaptive dwell, thermal governor).","sha256":"54e232c9180ad41f3d74f1c8a005cb7d0864eac4213e06f649a5bfd793ac5d15","versionCode":5,"versionName":"4.0"}
